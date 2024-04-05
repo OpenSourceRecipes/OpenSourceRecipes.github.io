@@ -1,3 +1,9 @@
+---
+title: Jambalaya
+date: 2024-03-20
+categories: [Cajun]
+tags: [cajun,griddle]
+---
 # Jambalaya
 ![Jambalaya](jambalaya.jpeg)
 

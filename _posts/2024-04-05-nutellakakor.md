@@ -1,8 +1,8 @@
 ---
 title: Kladdkakekakor med nutella
 date: 2024-03-28
-categories: [cookies,baking]
-tags: [chocolate,nutella]
+categories: [baking,cookies]
+tags: [chocolate,nutella,cookie]
 ---
 
 # Kladdkakekakor med nutella

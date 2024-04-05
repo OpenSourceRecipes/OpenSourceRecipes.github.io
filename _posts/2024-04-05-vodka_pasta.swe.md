@@ -1,3 +1,9 @@
+---
+title: Vodkapasta
+date: 2024-03-10
+categories: [Pasta]
+tags: [pasta,swedish]
+---
 # Vodkapasta
 ## ingridienser
 400 g Mezze Maniche
