@@ -1,18 +1,17 @@
 ---
-title: Kladdkakekakor med nutella
+title: Simple white bread
 date: 2024-03-28
-categories: [baking,cookies]
+categories: [baking,bread]
 tags: [bread]
 ---
 # Simple Bread
 ## white bread with 75% hydration
 
-```bash
-Water   375g
-Flower  500g
-Dry yeast   1,2 tsp
-Salt    15g
-```
+* Water   375g
+* Flower  500g
+* Dry yeast   1,2 tsp
+* Salt    15g
+
 
 ## Guide
 1 Mix together and wait 20 min
